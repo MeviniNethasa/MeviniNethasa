@@ -56,16 +56,25 @@ I am a third-year **B.Sc. (Hons) Information Technology** undergraduate student 
 
 ---
 
-### 📊 GitHub Activity Analytics
+### 💻 System Terminal Overview
 
-<p align="center">
-  <img height="180" src="https://vercel.app" alt="Mevini's GitHub Stats" />
-  <img height="180" src="https://vercel.app" alt="Mevini's Top Languages" />
-</p>
+```python
+class DeveloperProfile:
+    def __init__(self):
+        self.username = "MeviniNethasa"
+        self.role = "Data Science & AI Engineer"
+        self.focus_areas = ["Multi-Agent AI", "Predictive Modeling", "RAG Pipeline Engineering"]
+        self.current_gpa = 4.00
 
-<p align="center">
-  <img src="https://herokuapp.com" alt="Mevini's Streak Stats" />
-</p>
+    def get_status_report(self):
+        return {
+            "Continuous Learning": "Active",
+            "Hackathons Completed": "AMD Developer Act II",
+            "Open Source Engagement": "Mozilla Campus Club Alumni"
+        }
+
+# Profile initialized successfully.
+```
 
 ---
 
