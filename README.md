@@ -81,7 +81,7 @@ I am a third-year **B.Sc. (Hons) Information Technology** undergraduate student 
 ### 🤝 Connect With Me
 
 <p align="center">
-  📧 <b>Email:</b> <a href="mailto:mevinimunaweera@gmail.com">mevinimunaweera@gmail.com</a> &nbsp;&nbsp;|&nbsp;&nbsp; 💼 <b>LinkedIn:</b> <a href="https://linkedin.com" target="_blank">://linkedin.com</a>
+  📧 <b>Email:</b> <a href="mailto:mevinimunaweera@gmail.com">mevinimunaweera@gmail.com</a> &nbsp;&nbsp;|&nbsp;&nbsp; 💼 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/mevini-munaweera/" target="_blank">://linkedin.com</a>
 </p>
 
 <p align="center">
