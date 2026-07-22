@@ -1,14 +1,18 @@
+<div align="center">
+
 # Hi there, I'm Mevini Munaweera! 👋
 
-<p align="left">
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-</p>
+| 📊 Specialization | 🏆 Current GPA | 🎓 Academic Status |
+| :---: | :---: | :---: |
+| **Data Science** | **4.00 / 4.00** | **Undergraduate @ SLIIT** |
 
-I am a third-year **B.Sc. (Hons) Information Technology** undergraduate student specializing in **Data Science** at the Sri Lanka Institute of Information Technology (SLIIT). I design intelligent solutions using multi-agent AI systems, machine learning architectures, and modern web tech. 
+<br>
+
+I am a third-year **B.Sc. (Hons) Information Technology** undergraduate student specializing in **Data Science** at the Sri Lanka Institute of Information Technology (SLIIT). I design intelligent solutions using multi-agent AI systems, machine learning architectures, and modern web tech.
 
 ---
+
+</div>
 
 ### 🛠️ My Tech Stack
 
@@ -55,25 +59,22 @@ I am a third-year **B.Sc. (Hons) Information Technology** undergraduate student 
 ### 📊 GitHub Activity Analytics
 
 <p align="center">
-  <img height="180" src="https://vercel.app" />
-  <img height="180" src="https://vercel.app" />
+  <img height="180" src="https://vercel.app" alt="Mevini's GitHub Stats" />
+  <img height="180" src="https://vercel.app" alt="Mevini's Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://herokuapp.com" />
+  <img src="https://herokuapp.com" alt="Mevini's Streak Stats" />
 </p>
 
 ---
 
 ### 🤝 Connect With Me
 
-<p align="left">
-  <a href="https://linkedin.com" target="_blank">
-    <img src="https://shields.io" />
-  </a>
-  <a href="mailto:mevinimunaweera@gmail.com">
-    <img src="https://shields.io" />
-  </a>
+<p align="center">
+  📧 <b>Email:</b> <a href="mailto:mevinimunaweera@gmail.com">mevinimunaweera@gmail.com</a> &nbsp;&nbsp;|&nbsp;&nbsp; 💼 <b>LinkedIn:</b> <a href="https://linkedin.com" target="_blank">://linkedin.com</a>
 </p>
 
+<p align="center">
 *Feel free to explore my repositories or reach out for collaboration on AI, Data Science, or Full-Stack projects!*
+</p>
