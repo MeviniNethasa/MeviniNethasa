@@ -56,25 +56,12 @@ I am a third-year **B.Sc. (Hons) Information Technology** undergraduate student 
 
 ---
 
-### 💻 System Terminal Overview
+### 📈 GitHub Overview
 
-```python
-class DeveloperProfile:
-    def __init__(self):
-        self.username = "MeviniNethasa"
-        self.role = "Data Science & AI Engineer"
-        self.focus_areas = ["Multi-Agent AI", "Predictive Modeling", "RAG Pipeline Engineering"]
-        self.current_gpa = 4.00
-
-    def get_status_report(self):
-        return {
-            "Continuous Learning": "Active",
-            "Hackathons Completed": "AMD Developer Act II",
-            "Open Source Engagement": "Mozilla Campus Club Alumni"
-        }
-
-# Profile initialized successfully.
-```
+* ⚡ **Core Focus:** Multi-Agent AI, Predictive Modeling, and RAG Pipeline Engineering
+* 🚀 **Hackathons:** Completed AMD Developer Act II (Earned Bronze Builder Badge)
+* 🌐 **Communities:** Active open-source advocate and Mozilla Campus Club Member
+* ⚙️ **Workflow:** Fully automated CI/CD deployments and modular full-stack architectures
 
 ---
 
