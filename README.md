@@ -3,7 +3,7 @@
 <!-- Verified Direct GitHub User Content Profile Image -->
 <img src="https://avatars.githubusercontent.com/u/219524770?v=4" width="160" height="160" style="border-radius: 50%; object-fit: cover; border: 3px solid #3498db; margin-bottom: 15px;" alt="Mevini Munaweera" />
 
-# Hi there, I'm Mevini Munaweera! 👋
+# Hi there, I'm Mevini Munaweera!
 
 | 📊 Specialization | 🏆 Current GPA | 🎓 Academic Status |
 | :---: | :---: | :---: |
@@ -31,7 +31,7 @@ I am a third-year **B.Sc. (Hons) Information Technology** undergraduate student 
 
 ---
 
-### 🚀 Featured Technical Projects
+### Featured Technical Projects
 
 #### 🤖 TalentCore AI | *AMD Developer Hackathon (Bronze Badge)*
 * **Overview:** Enterprise AI recruitment platform built to orchestrate automated technical screening.
@@ -43,7 +43,7 @@ I am a third-year **B.Sc. (Hons) Information Technology** undergraduate student 
 * **Tech Stack:** `React Native` `Node.js` `Google Gemini` `MongoDB` `Vector Search`
 * **Key Work:** Built a semantic search ecosystem using Retrieval-Augmented Generation (RAG) to serve real-time document search results.
 
-#### 💔 Cardiovascular Disease Prediction System
+#### Cardiovascular Disease Prediction System
 * **Overview:** Full-stack machine learning engine tracking cardiovascular risks.
 * **Tech Stack:** `Python` `LightGBM` `Flask` `Spring Boot` `React`
 * **Key Work:** Cleaned, handled outliers, and feature-engineered over 70,000 health patient records; deployed the pipeline using a decoupled microservices design.
