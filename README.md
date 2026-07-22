@@ -1,5 +1,8 @@
 <div align="center">
 
+<!-- Automatically pulls your active GitHub profile picture -->
+<img src="https://github.com" width="150" style="border-radius: 50%; border: 3px solid #3498db; margin-bottom: 15px;" alt="Mevini Munaweera" />
+
 # Hi there, I'm Mevini Munaweera! 👋
 
 | 📊 Specialization | 🏆 Current GPA | 🎓 Academic Status |
@@ -44,6 +47,16 @@ I am a third-year **B.Sc. (Hons) Information Technology** undergraduate student 
 * **Overview:** Full-stack machine learning engine tracking cardiovascular risks.
 * **Tech Stack:** `Python` `LightGBM` `Flask` `Spring Boot` `React`
 * **Key Work:** Cleaned, handled outliers, and feature-engineered over 70,000 health patient records; deployed the pipeline using a decoupled microservices design.
+
+#### 🌿 Plant Disease Detection System
+* **Overview:** Deep learning computer vision application classifying crop anomalies from raw leaf imagery.
+* **Tech Stack:** `Python` `TensorFlow` `Keras` `Streamlit` `NumPy` `PIL`
+* **Key Work:** Designed and trained a custom Convolutional Neural Network (CNN) architecture across an 87,000+ image dataset to execute 38-class real-time inference via an interactive Streamlit UI.
+
+#### 📦 Inventory Management System
+* **Overview:** Full-featured enterprise stock tracking and predictive asset system handling resource operations.
+* **Tech Stack:** `Java 17` `Spring Boot 3` `Spring MVC` `Apache Maven` `JSP` `Lombok`
+* **Key Work:** Engineered a modular Spring MVC backend featuring dynamic item expiry monitoring via customized Merge Sort pipelines, integrated tracking, low-stock threshold dashboards, and isolated file-based storage patterns.
 
 ---
 
