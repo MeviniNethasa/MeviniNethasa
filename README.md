@@ -1,7 +1,8 @@
 <div align="center">
 
 <!-- Verified Direct GitHub User Content Profile Image -->
-<img src="https://githubusercontent.com" width="150" style="border-radius: 50%; border: 3px solid #3498db; margin-bottom: 15px;" alt="Mevini Munaweera" />
+<img src="![Uploading d0160a36-3117-415c-8172-1b59a92af2ce 2.jpg…]()
+" width="150" style="border-radius: 50%; border: 3px solid #3498db; margin-bottom: 15px;" alt="Mevini Munaweera" />
 
 # Hi there, I'm Mevini Munaweera! 👋
 
